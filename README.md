@@ -90,6 +90,4 @@ MNIST_ANN/
 - Add data augmentation
 - Use a larger batch size to speed up training (batch size 10 is slow)
 
-## License
 
-Add your preferred license here (e.g. MIT).
